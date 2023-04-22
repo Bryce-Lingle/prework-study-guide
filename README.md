@@ -1,4 +1,4 @@
-# <The Start to My Coding Career>
+# The Start to My Coding Career
 
 ## Description
 
